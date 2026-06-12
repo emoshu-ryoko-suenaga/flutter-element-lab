@@ -1,7 +1,7 @@
 # .github/workflows/deploy-github-pages.yml
 #
 # Flutter Web → GitHub Pages 自動デプロイ
-# 公開先: https://su3n4g4.github.io/flutter-element-lab/
+# 公開先: https://emoshu-ryoko-suenaga.github.io/flutter-element-lab/
 
 name: Deploy to GitHub Pages
 
