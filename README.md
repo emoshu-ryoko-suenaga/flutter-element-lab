@@ -1,16 +1,11 @@
-# flutter_element_lab
+# flutter-element-lab
 
-A new Flutter project.
+FlutterのElementツリーが持つ5つの責務を、検証画面を動かしながら確認するためのリポジトリです。
 
-## Getting Started
+## 検証ページ
 
-This project is a starting point for a Flutter application.
+ブラウザで動作を確認できます。
 
-A few resources to get you started if this is your first Flutter project:
+▶ https://emoshu-ryoko-suenaga.github.io/flutter-element-lab/
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
